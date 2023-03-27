@@ -42,8 +42,7 @@ PROJECT OBJECTIVE: The need is to build a NLP classifier which can use input tex
 
 
 
-# Project2_c• PROJECT OBJECTIVE: Design a python based interactive semi - rule based chatbot which can do the following:
- 
+# Project2_chatbot_customer_support
 
 • PROJECT OBJECTIVE: Design a python based interactive semi - rule based chatbot which can do the following:
 1. Start chat session with greetings and ask what the user is looking for. 
