@@ -1,5 +1,7 @@
 # Project1_NLP_Blog_authorship
 
+Link to dataset: https://www.kaggle.com/rtatman/blog-authorship-corpus
+
 PROJECT OBJECTIVE: The need is to build a NLP classifier which can use input text parameters to determine the label/s of the blog
 ### Steps and tasks: 
 1. Import and analyze the data set.
